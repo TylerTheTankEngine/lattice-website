@@ -1,0 +1,27 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor & IDE Directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and Temporary Scratch
+*.log
+scratch/
+tmp/
+.temp/
+
+# Raw Unconverted Image Archives
+*.heic
+
+# Internal Documentation & Notes (Local Only)
+README.md
+CLEANUP_NOTES.txt

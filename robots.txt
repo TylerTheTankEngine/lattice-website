@@ -1,0 +1,27 @@
+# Lattice Construction & Development
+# https://lattice.construction
+
+User-agent: *
+Allow: /
+
+# Restrict Unauthorized AI Scrapers & Data Harvesters
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+# Sitemap Location
+Sitemap: https://lattice.construction/sitemap.xml
